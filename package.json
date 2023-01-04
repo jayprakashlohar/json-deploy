@@ -1,0 +1,23 @@
+{
+  "name": "json-deploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayprakashlohar/json-deploy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayprakashlohar/json-deploy/issues"
+  },
+  "homepage": "https://github.com/jayprakashlohar/json-deploy#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
